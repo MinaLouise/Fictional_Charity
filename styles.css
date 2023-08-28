@@ -1,0 +1,43 @@
+body {
+    font-family: 'Times New Roman', Time, serif;
+    margin: 0;
+    padding: 0;
+    background-color: gainsboro;
+}
+header {
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+section {
+    padding: 2rem;
+    background-color: navy;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(67, 50, 80, 1)
+}
+h2, h1 {
+    color:rgba(68, 68, 69, 1);
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1rem;
+    margin: 1rem;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 0,5rem;
+    text-align: center;
+    border-bottom: 1px solid red;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: whitesmoke;
+    color: black;
+}
